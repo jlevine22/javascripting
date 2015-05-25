@@ -1,0 +1,1 @@
+Solutions to the [nodeschool](http://nodeschool.io) [javascripting workshopper](https://github.com/sethvincent/javascripting)
